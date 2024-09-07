@@ -13,7 +13,7 @@ A Contact API construída com Rails para receber mensagens de usuários via uma 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/contact_api.git
+   git clone https://github.com/Jmspter/ContactAPI-.git
    cd contact_api
    ```
 
